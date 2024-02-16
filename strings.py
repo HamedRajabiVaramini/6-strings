@@ -15,9 +15,9 @@ a multiline string
 assignment."""
 
 # Assigning with single quotes - multiline
-s4 = """This is
+s4 = '''This is
 another
 multiline string
-assignment."""
+assignment.'''
 
 
